@@ -96,7 +96,7 @@ candidato estará impossibilitado de prosseguir para trilha final.
 5. **Clonar o Repositório:** Clone o repositório para a sua máquina local e configure o ambiente de trabalho.
 
 ### Instruções de Entrega: 📬
-Após finalizar o projeto, publique-o em uma URL pública (por exemplo, Vercel, Netlify, GitHub Pages, etc.) e hospede o seu servidor na nuvem. Use serviços que ofereçam uso gratiuto por um período, como a AWS e preencha o [Formulário](https://forms.gle/gZViPMTSDV5nidSu6):  
+Após finalizar o projeto, em seu repositório do GitHub, você cria um arquivo README.md que descreve o projeto, explica como executar o código Python, e detalha as análises realizadas e os insights obtidos. Você pode incluir gráficos gerados pelo Matplotlib ou Seaborn e preencha o [Formulário](https://forms.gle/gZViPMTSDV5nidSu6):
 
 ---
 
