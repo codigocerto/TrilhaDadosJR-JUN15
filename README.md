@@ -51,14 +51,6 @@ Utilize esses dados e transforme em arquivo .CSV, você vai utilizar para realiz
    2. Identificar o curso com o maior número de vendas.
    3. Visualizar a distribuição das vendas ao longo do tempo através de gráficos.
 
-## Entregáveis:
-   1. **Código Fonte:**
-      - Código fonte do projeto, organizado conforme a estrutura acima.
-   2. **Repositório GitHub:**
-      - Repositório público contendo o código fonte e documentação.
-   3. **Documentação:**
-      - Documentação Simples: Breve documentação explicando o funcionamento do script e as conclusões básicas obtidas.
-
 ### Detalhes Técnicos: 🔧
 - **Boas Práticas:** Utilizar boas práticas de código limpo, legível e bem documentado.
 - **Git:** Utilizar Git para controle de versão e submeter o projeto através de um repositório público no GitHub.
@@ -90,7 +82,7 @@ A data máxima para entrega das trilhas foi removida, permitindo que as pessoas 
 5. **Clonar o Repositório:** Clone o repositório para a sua máquina local e configure o ambiente de trabalho.
 
 ### Instruções de Entrega: 📬
-Após finalizar o projeto, em seu repositório do GitHub, você cria um arquivo README.md que descreve o projeto, explica como executar o código Python, e detalha as análises realizadas e os insights obtidos. Você pode incluir gráficos gerados pelo Matplotlib ou Seaborn e preencha o [Formulário](https://forms.gle/gZViPMTSDV5nidSu6):
+Após finalizar esse projeto, em seu repositório do GitHub, você cria um arquivo README.md que descreve o projeto, explica como executar o código Python, e detalha as análises realizadas e os insights obtidos. Após a conclusão da Trilha Inicial agora você está apto para realizar a [Trilha Final](https://github.com/68vinicius/TrilhaFinalDados):
 
 ---
 
@@ -100,9 +92,9 @@ Achou esse projeto inicial simples? Eleve ainda mais! Estamos em busca de mentes
 ---
 
 🔗 **Mantenha-se Conectado:**
-- [Discord](https://discord.gg/wzA9FGZHNv)
+- [Discord](discord.gg/y3GHwPvsMK)
 - [Website](http://www.codigocertocoders.com.br/)
-- [LinkedIn](https://www.linkedin.com/company/codigocerto/)
+- [LinkedIn](https://www.linkedin.com/company/codigocertocoders/)
   
 🌐 **Contato:**
 - Email: codigocertocoders@gmail.com
